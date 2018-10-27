@@ -19,6 +19,10 @@ url: "http://dontstay.github.io/index.html" # the base hostname & protocol for y
 #markdown: kramdown
 kramdown:
   input: GFM
+  extensions:
+    - autolink
+    - footnotes
+    - smart
   syntax_highlighter: rouge
 
 #relative_permalinks: true
