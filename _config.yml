@@ -1,7 +1,7 @@
 # Site settings
 title: Bobby的个人博客
-email: bobby@email.com
-description: > #Bobby的个人博客
+email: zhangbo0909@foxmail.com
+description: > #Bobby的实验室
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://dontstay.github.io/index.html" # the base hostname & protocol for your site
 
@@ -34,10 +34,8 @@ favicon: /assets/image/favicon.ico
 # 博客作者相关
 author:
   name: Bobby
-  email: bobby@email.com
+  email: zhangbo0909@foxmail.com
   link: http://dontstay.github.io/
-  weibo: http://www.weibo.com/bobby
-  weibo_username: bobby
   github: https://github.com/dontstay
   github_username: dontstay
 
