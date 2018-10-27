@@ -1,3 +1,3 @@
 # Welcome to my blog
 
-#Forked from LingxianKong/lingxiankong.github.io
+Forked from https://github.com/LingxianKong/lingxiankong.github.io

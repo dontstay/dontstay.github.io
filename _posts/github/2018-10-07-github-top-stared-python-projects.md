@@ -1,8 +1,10 @@
 ---
-title: github_top_stared_python_projects
-date: 2018-10-07 13:06:40
-tags:
+layout: post
+title: github python TOP 10 热门项目
+description: github python TOP 10 热门项目
+category: github
 ---
+
 # awesome-python 
 - **language**: `Python` 
 - **forks**: `10847` 
