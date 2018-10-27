@@ -116,7 +116,7 @@ a {
   height: 100px;
   margin: 55px auto 35px;
   border-radius: 50%;
-  box-shadow: 0 0 0px 4px #aaaaaa, 0 0 4px 4px #3c4149;
+  box-shadow: 0 0 0px 4px #fafafa, 0 0 4px 4px #3c4149;
   background-repeat: no-repeat;
   background-size: 100px 100px;
   overflow: hidden;
