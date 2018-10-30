@@ -43,7 +43,7 @@ author:
 locals:
   tags: 标签
   about: 关于
-  active: github
+  active: news
 subscribe_rss: /pages/atom.xml
 
 # 头像
